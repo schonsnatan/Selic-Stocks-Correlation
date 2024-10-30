@@ -1,4 +1,4 @@
-from get_files import process_selic_data
+from get_files_selic import process_selic_data
 
 def main():
     '''
